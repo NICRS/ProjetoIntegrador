@@ -1,0 +1,73 @@
+body{
+   background-color: #1E90FF; 
+}
+
+h1 {
+    font-size: 30px;  
+    color: #fff;
+    text-align: center;
+}
+
+
+h3 {
+    font-size: 25px;
+    color: #fff;
+    
+}
+
+a {
+    color: #fff;
+}
+
+.inicial{
+    
+    width: 50%;
+    height: 50%;
+    display: block;
+    text-align: center;
+    background-color: #3A5FCD;
+    border: 5px solid #fff;
+    border-radius: 30px;
+    margin: 3% 0% 0% 25%;
+    
+}
+
+
+.menu {
+    width: 80%;
+    height: 50%;
+    display: block;
+    text-align: center;
+    margin: 4% 10% 0% 10%;
+    padding: 4%;
+/*   //background-color: #3A5FCD;
+   // border: 5px solid #fff;
+   // border-radius: 30px;*/
+    
+}
+
+.menu :hover{
+ color:#3A5FCD;
+}
+
+.botao {
+    margin: 3%;
+    
+}
+#inicial{
+   /* 
+    padding: 1% 1%;
+    width: 80%;
+    height: 80%;
+    display: block;
+    text-align: center;
+    background-color: #3A5FCD;
+    border: 5px solid #fff;
+    border-radius: 30px;
+    margin: 3% 0% 0% 25%;*/
+}
+.col-xs-6 col-md-4 col-md-offset-3 menu{
+    padding: 0% 0%;
+    text-align: center;
+    
+}
