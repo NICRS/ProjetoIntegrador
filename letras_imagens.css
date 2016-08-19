@@ -1,0 +1,32 @@
+body{
+   background-color: #1E90FF; 
+}
+
+
+h3 {
+    color: #fff;
+}
+
+
+a {
+    color: #fff;
+    
+}
+
+.imagem{
+    
+    width: 50%;
+    height: 50%;
+    display: block;
+    text-align: center;
+    background-color: #3A5FCD;
+    border: 5px solid #fff;
+    border-radius: 30px;
+    margin-top: 3%;
+}
+
+
+.botao {
+    margin: 3%;
+    
+}

@@ -1,0 +1,32 @@
+body{
+   background-color: #1E90FF; 
+}
+
+h1 {
+    color: #fff;
+    
+}
+
+h4 {
+    color: #fff;
+    font-size: 110px;
+}
+
+h2{
+    color: #b92c28;
+    font-size: 60px;
+}
+
+h3 {
+    color: #fff;
+    
+}
+
+a {
+    color: #fff;
+}
+
+.img-circle {
+    
+    background-color: #fff;
+}
