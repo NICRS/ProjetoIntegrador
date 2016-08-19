@@ -1,0 +1,52 @@
+body{
+   background-color: #1E90FF; 
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+h4 {
+    color: #fff;
+    font-size: 110px;
+}
+
+h2{
+    color: #fff;
+    font-size: 60px;
+}
+
+h3 {
+    color: #fff;
+    
+}
+
+a {
+    color: #fff;
+}
+
+.img-circle {
+    
+    background-color: #fff;
+}
+
+.caixa{
+    width: 50%;
+    height: 50%;
+    display: block;
+    text-align: center;
+    background-color: #2055f4;
+    border: 5px solid #fff;
+    border-radius: 30px;
+    margin-top: 2%;
+    margin-left: 27%;
+    padding: 3%;
+    
+}
+
+.botao{
+    margin-top: 3%; 
+     
+}
+

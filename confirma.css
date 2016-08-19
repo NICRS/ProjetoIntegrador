@@ -1,0 +1,39 @@
+body{
+   background-color: #1E90FF; 
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+h2{
+    color: #fff;
+}
+
+h3 {
+    color: #fff;
+    
+}
+
+a {
+    color: #fff;
+}
+
+.caixa{
+    width: 50%;
+    height: 50%;
+    display: block;
+    text-align: center;
+    background-color: #3A5FCD;
+    border: 5px solid #fff;
+    border-radius: 30px;
+    margin-top: 2%;
+    margin-left: 27%;
+    padding: 3%;
+    
+}
+
+.botao{
+    margin-top: 3% 
+}
